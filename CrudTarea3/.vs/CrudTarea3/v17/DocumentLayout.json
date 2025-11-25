@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Andy\\OneDrive\\Escritorio\\Programacion III\\CrudTarea3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2169AD-398F-4BB1-A9B9-A5868EA6D8D9}|CrudTarea3\\CrudTarea3.csproj|c:\\users\\andy\\onedrive\\escritorio\\programacion iii\\crudtarea3\\crudtarea3\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2169AD-398F-4BB1-A9B9-A5868EA6D8D9}|CrudTarea3\\CrudTarea3.csproj|solutionrelative:crudtarea3\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2169AD-398F-4BB1-A9B9-A5868EA6D8D9}|CrudTarea3\\CrudTarea3.csproj|c:\\users\\andy\\onedrive\\escritorio\\programacion iii\\crudtarea3\\crudtarea3\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED2169AD-398F-4BB1-A9B9-A5868EA6D8D9}|CrudTarea3\\CrudTarea3.csproj|solutionrelative:crudtarea3\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 294,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\OneDrive\\Escritorio\\Programacion III\\CrudTarea3\\CrudTarea3\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "CrudTarea3\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Andy\\OneDrive\\Escritorio\\Programacion III\\CrudTarea3\\CrudTarea3\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "CrudTarea3\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwEMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:06:49.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Andy\\OneDrive\\Escritorio\\Programacion III\\CrudTarea3\\CrudTarea3\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "CrudTarea3\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Andy\\OneDrive\\Escritorio\\Programacion III\\CrudTarea3\\CrudTarea3\\Models\\Persona.cs",
+              "RelativeToolTip": "CrudTarea3\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T01:05:42.58Z",
+              "EditorCaption": ""
             }
           ]
         }
